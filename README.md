@@ -1,5 +1,5 @@
 - (name) Hi, I’m @cstever0
-- (interests) I’m interested in Communication, Language, Questions, Logic, Morals, Philosophy
+- (interests) I’m interested in Communication, Language, Questions, Logic, Philosophy
 - (growth) I’m currently learning javascript logic
 - (seeking) I’m looking to collaborate on debugging basics in JavaScript
 - (per-info) How to reach me - cstever@hotmail.com ('i'll block you if you send me junk')
