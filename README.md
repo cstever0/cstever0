@@ -4,6 +4,12 @@ On a more personal note, I am interested in video games and e-sports. One of my 
 
 As a full stack software developer I have enjoyed working on my current projects using React/Redux, PostgreSQL, and Flask/SQLAlchemy. I am always open to new opportunities and would love to learn more.
 
+<p>
+  <p href="https://skillicons.dev" align="center" style="display: flex; align-items: center;" >
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,docker,express,flask,nodejs,postgres,postman,py,react,redux,sqlite,sequelize,tailwind,visualstudio&perline=8" />
+  </p>
+</p>
+
 <!---
 cstever0/cstever0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
