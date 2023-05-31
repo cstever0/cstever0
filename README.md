@@ -6,7 +6,7 @@ As a full stack software developer I have enjoyed working on my current projects
 
 <p>
   <p href="https://skillicons.dev" align="center" style="display: flex; align-items: center;" >
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,docker,express,flask,nodejs,postgres,postman,py,react,redux,sqlite,sequelize,tailwind,visualstudio&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,docker,express,flask,nodejs,postgres,postman,py,react,redux,sqlite,sequelize />
   </p>
 </p>
 
