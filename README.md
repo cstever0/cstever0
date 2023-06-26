@@ -1,5 +1,5 @@
-![cstever0's Stats](https://github-readme-stats.vercel.app/api?username=cstever0&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![cstever0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cstever0&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![cstever0's Stats](https://github-readme-stats.vercel.app/api?username=cstever0&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![cstever0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cstever0&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 I'm a full stack software engineer with a passion for creating products that will improve the quality of life for others. I am skilled in JavaScript, Node, React, Redux, Express, SQL, Python, Flask, HTML, and CSS. I also have a background in sales, and inventory management that allows me to bring my own unique perspective to the field. I am currently working on a project that helps users to manage, organize, and track daily tasks to maximize a person's efficiency.
 
