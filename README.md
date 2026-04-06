@@ -1,8 +1,5 @@
 ## Welcome to Cory's GitHub! 👋
 
-![Top Languages](https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=cstever0&layout=compact&theme=nightowl&hide_border=true)
-
-
 ## About Me
 
 #### I'm a full stack software engineer with a passion for creating products that will improve the quality of life for others. I am skilled in JavaScript, Node, React, Redux, Express, SQL, Python, Flask, HTML, and CSS. I also have a background in sales, and inventory management that allows me to bring my own unique perspective to the field. I am currently working on a project that helps users to manage, organize, and track daily tasks to maximize a person's efficiency.
