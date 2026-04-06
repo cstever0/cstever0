@@ -1,7 +1,6 @@
 ## Welcome to Cory's GitHub! 👋
 
-<!-- ![cstever0's Stats](https://github-readme-stats.vercel.app/api?username=cstever0&theme=nightowl&show_icons=true&hide_border=true&count_private=true) -->
-![cstever0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cstever0&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cstever0&layout=compact&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## About Me
