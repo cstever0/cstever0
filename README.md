@@ -1,6 +1,6 @@
 ## Welcome to Cory's GitHub! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstever0&layout=compact&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 ## About Me
 
