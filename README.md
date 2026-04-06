@@ -1,6 +1,6 @@
 ## Welcome to Cory's GitHub! 👋
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cstever0&layout=compact&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![cstever0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cstever0&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 
 ## About Me
